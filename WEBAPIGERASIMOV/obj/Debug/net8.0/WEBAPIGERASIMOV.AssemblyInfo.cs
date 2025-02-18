@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WEBAPIGERASIMOV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8769b81523bde2dddc76166a574c7ae4a5b2f8fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("WEBAPIGERASIMOV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WEBAPIGERASIMOV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
