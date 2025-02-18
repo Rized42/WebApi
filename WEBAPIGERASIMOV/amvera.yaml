@@ -1,13 +1,12 @@
-version: null
 meta:
   environment: csharp
   toolchain:
     name: dotnet
-    version: "8.0"
+    version: 8.0
 build:
-  image: null
+  image: mcr.microsoft.com/dotnet/sdk:8.0
 run:
-  image: null
-  buildFileName: null
+  image: mcr.microsoft.com/dotnet/sdk:8.0
+  buildFileName: webapigerasimov
   persistenceMount: /data
   containerPort: 80
