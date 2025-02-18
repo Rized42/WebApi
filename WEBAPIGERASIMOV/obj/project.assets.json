@@ -6976,9 +6976,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV.csproj",
-      "projectName": "WEBAPIGERASIMOV",
-      "projectPath": "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV.csproj",
+      "projectUniqueName": "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\webapigerasimov.csproj",
+      "projectName": "webapigerasimov",
+      "projectPath": "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\webapigerasimov.csproj",
       "packagesPath": "C:\\Users\\rized\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\webapigerasimov.csproj": {}
+    "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\wedapigerasimov.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\webapigerasimov.csproj": {
+    "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\wedapigerasimov.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\webapigerasimov.csproj",
-        "projectName": "webapigerasimov",
-        "projectPath": "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\webapigerasimov.csproj",
+        "projectUniqueName": "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\wedapigerasimov.csproj",
+        "projectName": "wedapigerasimov",
+        "projectPath": "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\wedapigerasimov.csproj",
         "packagesPath": "C:\\Users\\rized\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\obj\\",
         "projectStyle": "PackageReference",

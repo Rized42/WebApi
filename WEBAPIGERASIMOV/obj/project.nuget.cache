@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i3m7EN1BhmQ=",
+  "dgSpecHash": "q4jz7bPidHQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV.csproj",
+  "projectFilePath": "C:\\Users\\rized\\source\\repos\\WEBAPIGERASIMOV\\WEBAPIGERASIMOV\\webapigerasimov.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rized\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\rized\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
